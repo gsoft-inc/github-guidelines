@@ -49,7 +49,7 @@ Ex:
 
 - gsoft/license
 
-Packages that are not bound to organization or a product can use the naming convention of their choice.
+Packages that are not bound to an organization or a product can use the naming convention of their choice.
 
 ## License
 
