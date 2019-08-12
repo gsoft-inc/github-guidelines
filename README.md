@@ -29,9 +29,9 @@ Ex:
 - dotnet-certificate-tool
 - azure-pipelines-lighthouse
 
-## NPM package
+## NPM package name
 
-Packages that are bound to an organization within GSoft or a product developed by GSoft should be published under the organization or product and match the following naming convention:
+Packages that are bound to an organization within GSoft or a product developed by GSoft should be published under the organization or the product and match the following naming convention:
 
 @[organization | product]/[name]
 
