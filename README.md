@@ -31,7 +31,7 @@ Ex:
 
 ## NPM package name
 
-Packages that are bound to an organization within GSoft or a product developed by GSoft should be published under the organization or the product and match the following naming convention:
+Packages that are bound to an organization within GSoft or a product developed by GSoft should be published under a scope named after the organization or the product name and the whole package name should match the following naming convention:
 
 @[organization | product]/[name]
 
@@ -41,7 +41,7 @@ Ex:
 - @ov/eslint
 - @glab/stylelint
 
-Packages that are bound to the whole GSoft organization should be published under "@gsoft" and match the following naming convention:
+Packages that are bound to the whole GSoft organization should be published under the "@gsoft" scope and match the following naming convention:
 
 @gsoft/[name]
 
