@@ -51,6 +51,14 @@ Ex:
 
 Packages that are not bound to an organization or a product can use the naming convention of their choice.
 
+## NPM package author
+
+The packages author should match an rganization within GSoft or a product developed by GSoft.
+
+Ex.
+
+- Groupe Sharegate inc.
+
 ## License
 
 Every open source project developed by GSoft must be under the Apache 2.0 license and link to the following license: https://github.com/gsoft-inc/gsoft-license/blob/master/LICENSE
