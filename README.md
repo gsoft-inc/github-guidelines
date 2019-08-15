@@ -41,7 +41,7 @@ Ex:
 - @ov/eslint
 - @glab/stylelint
 
-Packages that are bound to the whole GSoft organization should be published under the "@gsoft" scope and match the following naming convention:
+Packages that are bound to the whole GSoft organization should be published under the "@gsoft" [NPM scope](https://docs.npmjs.com/about-scopes) and match the following naming convention:
 
 @gsoft/[name]
 
