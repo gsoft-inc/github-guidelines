@@ -31,7 +31,7 @@ Ex:
 
 ## NPM package name
 
-Packages that are bound to an organization within GSoft or a product developed by GSoft should be published under a scope named after the organization or the product name and the whole package name should match the following naming convention:
+Packages that are bound to an organization within GSoft or a product developed by GSoft should be published under an [NPM scope](https://docs.npmjs.com/about-scopes) named after the organization or the product name and the whole package name should match the following naming convention:
 
 @[organization | product]/[name]
 
