@@ -20,7 +20,7 @@ Ex:
 
 - gsoft-license
 
-Repositories that are not bound to an organization or a product shoudln't have a prefix.
+Repositories that are not bound to an organization or a product shouldn't have a prefix.
 
 Ex:
 
@@ -53,7 +53,7 @@ Packages that are not bound to an organization or a product can use the naming c
 
 ## NPM package author
 
-The packages author should match an rganization within GSoft or a product developed by GSoft.
+The packages author should match an organization within GSoft or a product developed by GSoft.
 
 Ex.
 
