@@ -57,6 +57,7 @@ The packages author should match an organization within GSoft or a product devel
 
 Ex.
 
+- Groupe GSoft inc.
 - Groupe Sharegate inc.
 
 ## License
