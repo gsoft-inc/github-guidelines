@@ -2,9 +2,9 @@
 
 ## Github Account
 
-GSoft doesn't have any specific requirements regarding which account you use to contribute to any of the organization repository. You can use your personal account or create a new account for GSoft related contributions.
+GSoft doesn't have any specific requirements regarding which account you use to contribute to any of the organization repository. You can use your personal account or create a new account related to GSoft.
 
-However, before contributing, you must link your Github account to [GSoft Github organization](https://github.com/gsoft-inc). To do so, **open a ticket with infra** and ask to be added to the `gsoft-inc` organization on Github.
+However, before contributing, you must associate your Github account to [GSoft Github organization](https://github.com/gsoft-inc). To do so, **open a ticket with infra** and ask to be added to the `gsoft-inc` organization on Github.
 
 ## Repository name
 
