@@ -1,4 +1,4 @@
-# github-guidelines
+# Guidelines
 
 ## Github Account
 
