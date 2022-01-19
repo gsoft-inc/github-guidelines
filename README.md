@@ -1,5 +1,7 @@
 # Guidelines
 
+You'll find below a few guidelines to follow when contributing to a Github repository in GSoft organization.
+
 ## Github Account
 
 GSoft doesn't have any specific requirements regarding which account you use to contribute to any of the organization repository. You can use your personal account or create a new account related to GSoft.
