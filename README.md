@@ -55,7 +55,7 @@ Packages that are bound to the whole GSoft organization should be published unde
 
 Ex:
 
-- gsoft/license
+- @gsoft/license
 
 Packages that are not bound to an organization or a product can use the naming convention of their choice.
 
