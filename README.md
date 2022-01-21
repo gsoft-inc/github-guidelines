@@ -1,6 +1,6 @@
 # Guidelines
 
-You'll find below a few guidelines to follow when contributing to a Github repository in GSoft organization.
+You'll find below a few guidelines to follow when contributing to a Github repository in GSoft organization. As any open source project it should also follow the [community guidelines for open source](https://opensource.guide/).
 
 ## Github Account
 
@@ -59,7 +59,13 @@ Ex:
 
 Packages that are not bound to an organization or a product can use the naming convention of their choice.
 
-## NPM package author
+## NuGet package
+
+### Guidelines
+
+NuGet package should follow [Microsoft guidelines](https://docs.microsoft.com/en-us/nuget/create-packages/package-authoring-best-practices)
+
+## Package author
 
 The packages author should match an organization within GSoft or a product developed by GSoft.
 
