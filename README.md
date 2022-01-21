@@ -1,6 +1,6 @@
 # Guidelines
 
-You'll find below a few guidelines to follow when contributing to a Github repository in GSoft organization.
+You'll find below a few guidelines to follow when contributing to a Github repository in GSoft organization. As any open source project it should also follow the [community guidelines for open source](https://opensource.guide/).
 
 ## Github Account
 
@@ -61,9 +61,47 @@ Packages that are not bound to an organization or a product can use the naming c
 
 ## NuGet package
 
+### Guidelines
+
 NuGet package should follow [Microsoft guidelines](https://docs.microsoft.com/en-us/nuget/create-packages/package-authoring-best-practices)
 
+### Folder Structure
 
+Here is the proposed folder structure that should be used:
+``` 
+.
+|-build (optional)
+|      |-build.cmd (optional)
+|      |-build.ps1 (optional)
+|      |-...(other build artefact)
+|-src
+|   |-project1
+|   |-project2
+|   |...
+|   |-projectN
+|-docs
+|    |-images
+|    |-chapter1
+|    |-chapter2
+|    |-...
+|    |-chapterN
+|-tests
+|     |-testproject1
+|     |-testproject2
+|     |-..
+|     |-testprojectN
+|-samples
+|       |-sampleprojevt1
+|       |-sampleproject2
+|       |-..
+|       |-sampleprojectN
+|-README.md (Introduction document)
+|-CHANGELOG.md (All release notes documented)
+|-CONTRIBUTING.md (Explanation on how to contribute)
+|-CODE_OF_CONDUCT.md (Rule to repect for contribution)
+|-LICENSE.txt (Apache 2.0 licence text)
+|-<solution>.sln
+```
 
 ## Package author
 
@@ -74,7 +112,6 @@ Ex.
 - Groupe GSoft inc.
 - Groupe Sharegate inc.
 
-## NX
 ## License
 
 Every open source project developed by GSoft must be under the Apache 2.0 license and link to the following license: https://github.com/gsoft-inc/gsoft-license/blob/master/LICENSE
