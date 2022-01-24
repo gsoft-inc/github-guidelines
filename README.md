@@ -71,6 +71,7 @@ Ex.
 
 - Groupe GSoft inc.
 - Groupe Sharegate inc.
+- Officevibe Inc.
 
 ## License
 
