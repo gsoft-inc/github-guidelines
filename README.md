@@ -74,4 +74,4 @@ Ex.
 
 ## License
 
-Every open source project developed by Workleap must be under the Apache 2.0 license and link to the following license: https://github.com/gsoft-inc/gsoft-license/blob/master/LICENSE
+Every open source project developed by Workleap must be under the Apache 2.0 license and link to the following license: https://github.com/gsoft-inc/workleap-license/blob/master/LICENSE
